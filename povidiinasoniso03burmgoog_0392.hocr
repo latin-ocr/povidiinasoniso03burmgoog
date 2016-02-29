@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasoniso03burmgoog_0392.png"; bbox 0 0 2806 5018; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 131 1749 1163 1865">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 131 1749 1163 1865">
+     <span class='ocr_line' id='line_1_1' title="bbox 131 1749 1163 1865; baseline -0.006 -22"><span class='ocrx_word' id='word_1_1' title='bbox 131 1749 458 1846; x_wconf 87' lang='lat' dir='ltr'>NERONIS</span> <span class='ocrx_word' id='word_1_2' title='bbox 494 1751 754 1848; x_wconf 87' lang='lat' dir='ltr'><strong>CLAUD.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 786 1749 1036 1865; x_wconf 85' lang='lat' dir='ltr'><strong>DRUSI,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1153 1824 1163 1837; x_wconf 84' lang='grc'><strong><em>,</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 201 2045 981 2144">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 201 2045 981 2144">
+     <span class='ocr_line' id='line_1_2' title="bbox 201 2045 981 2144; baseline 0 -15"><span class='ocrx_word' id='word_1_5' title='bbox 201 2045 581 2131; x_wconf 85' lang='lat' dir='ltr'><strong>COGNOMINE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 610 2045 981 2144; x_wconf 81' lang='lat' dir='ltr'><strong>GERMANICL</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 440 2347 916 2400">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 440 2347 916 2400">
+     <span class='ocr_line' id='line_1_3' title="bbox 440 2347 916 2400; baseline 0 -3"><span class='ocrx_word' id='word_1_7' title='bbox 440 2347 714 2400; x_wconf 76' lang='grc' dir='ltr'>ἘΠΙΚΗΔΙΟΝ</span> <span class='ocrx_word' id='word_1_8' title='bbox 744 2361 749 2376; x_wconf 86' lang='grc'><strong><em>·</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 910 2352 916 2369; x_wconf 82' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 64 2595 1092 2677">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 64 2595 1092 2677">
+     <span class='ocr_line' id='line_1_4' title="bbox 64 2595 1092 2677; baseline -0.004 -1"><span class='ocrx_word' id='word_1_10' title='bbox 64 2599 263 2676; x_wconf 89' lang='lat' dir='ltr'>OVIDIO</span> <span class='ocrx_word' id='word_1_11' title='bbox 291 2598 700 2677; x_wconf 85' lang='lat' dir='ltr'>PROBABILITER</span> <span class='ocrx_word' id='word_1_12' title='bbox 727 2595 1092 2674; x_wconf 84' lang='lat' dir='ltr'><strong>RESTITUTUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1408 5018">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1408 5018">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1408 5018; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1408 5018; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
